@@ -27,5 +27,7 @@ public class log4jExample {
 		System.out.println("end");
 		log.info("now this project is in GitHub hoou");
 		log.info("hii i'm Aniket");
+		log.info("hiiiiiiiiiiiiiii");
+		log.info("hiiiiiiiiiiioooo");
 	}
 }
